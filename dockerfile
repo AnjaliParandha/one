@@ -14,7 +14,8 @@ ADDING new data to check builds for pollSCM
 
 I have tried to build trigger from poll SCM
 
-Add
+Adding data to check for working of builds
+
 
 
 
