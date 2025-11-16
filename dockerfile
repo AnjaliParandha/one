@@ -9,4 +9,10 @@ ADDING SOME NEW CONTENT BY DEV-4
 
 
 
+ADDING new data to check builds for pollSCM
+
+I have tried to build trigger from poll SCM
+
+Adding some more input to check whether it is working or not
+
 
